@@ -4,7 +4,7 @@ from classPet import Pet
 pet1 = Pet()
 pet1.ingresarDetalles()
 
-# Instance of the class Pet, but the user will enter the values without using the method ingresarDetalles
+# Instance of the class Pet, but we enter the values without using the method ingresarDetalles
 pet2 = Pet()
 pet2.name = "Firulais"
 pet2.age = 5
