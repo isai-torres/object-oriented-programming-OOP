@@ -1,4 +1,5 @@
 class Book:
+  # Constructor
   def __init__(self, titulo, autor, genero, numPaginas):
   # Attributes
     self.titulo = titulo
