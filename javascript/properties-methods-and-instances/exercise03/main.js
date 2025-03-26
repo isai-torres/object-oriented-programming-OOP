@@ -21,4 +21,4 @@ console.log("---------------------");
 pet3.mostrarDetalles();
 
 //---------------------- Important ----------------------
-// For proimpting the user to enter the values in JavaScript you will need to install the prompt-sync package. "npm install prompt-sync"
+// For prompting the user to enter the values in JavaScript you will need to install the prompt-sync package. "npm install prompt-sync"

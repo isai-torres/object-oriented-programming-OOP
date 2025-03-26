@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         
         // This is an instance of the Book class
         Book book1 = new Book();
