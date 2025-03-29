@@ -29,3 +29,7 @@ public class App {
 		System.out.println(user3.age);
 	}
 }
+
+// Remember:
+// Python and JavaScript does not support constructor overloading in the same way Java does.
+// However, you can simulate it using techniques like default parameters.
