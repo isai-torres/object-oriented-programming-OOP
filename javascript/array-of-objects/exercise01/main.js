@@ -8,6 +8,7 @@ const car3 = new Car("Ford", "Fiesta", "White");
 // Create array of objects
 const cars = [car1, car2, car3];
 
+// Create for loop to iterate through the array of cars
 for (let i = 0; i < cars.length; i++) {
   cars[i].drive();
 }

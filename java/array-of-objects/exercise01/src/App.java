@@ -6,6 +6,7 @@ public class App {
 
         Car cars[] = {car1, car2, car3};
 
+        // Create for loop to iterate through the array of cars
         for (int i = 0; i < cars.length; i++) {
             cars[i].drive();
         }
