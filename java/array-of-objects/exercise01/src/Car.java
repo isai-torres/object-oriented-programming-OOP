@@ -12,7 +12,7 @@ public class Car {
   }
 
   // Method to display car details
-  public void Drive() {
+  public void drive() {
     System.out.println("You are driving a " + this.color + " " + this.make + " " + this.model);
   }
 }

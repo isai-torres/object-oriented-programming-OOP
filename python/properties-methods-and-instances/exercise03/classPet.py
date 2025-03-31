@@ -1,5 +1,5 @@
 class Pet:
-  # This constructor is using default values (This method is simple and clear for most cases)
+  # This constructor is using default values.
   # This approach lets you create an object without passing arguments or by passing them if you want.
   def __init__(self, name = "", age = 0, species = ""):
     self.name = name

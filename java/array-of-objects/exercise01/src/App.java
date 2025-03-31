@@ -7,7 +7,7 @@ public class App {
         Car cars[] = {car1, car2, car3};
 
         for (int i = 0; i < cars.length; i++) {
-            cars[i].Drive();
+            cars[i].drive();
         }
     }
 }
