@@ -5,7 +5,7 @@ public class Student {
   double gpa;
 
   // Constructor method that initializes the object's fields with the given arguments.
-  Student(String name, int years, double gpa) {
+  public Student(String name, int years, double gpa) {
     this.name = name;
     this.years = years;
     this.gpa = gpa;
