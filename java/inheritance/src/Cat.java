@@ -1,7 +1,6 @@
 public class Cat extends Animal { // Extends keyword is used to inherit from another class
   public Cat(String name, int age) {
-    this.name = name;
-    this.age = age;
+    super(name, age);
   }
 
   public void catSound() {
